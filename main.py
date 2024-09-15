@@ -1,3 +1,7 @@
+"""
+Connects to a SQL database using pyodbc
+"""
+
 from database import get_connection
 
 def main():
