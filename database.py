@@ -1,5 +1,5 @@
-import pyodbc
 import os
+import pyodbc
 from dotenv import load_dotenv
 
 # Cargar las variables de entorno desde el archivo .env

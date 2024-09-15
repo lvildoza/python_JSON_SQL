@@ -22,7 +22,7 @@ Este proyecto proporciona un ejemplo básico de cómo conectar una aplicación P
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/lvildoza/python_JSON_SQL.git
+   git clone https://github.com/lvildoza/python_connection_sql.git
    cd tu-repositorio
    ```
 
